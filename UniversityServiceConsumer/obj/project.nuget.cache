@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AiYXS2AgGux0PyoerrmNDPJ9xwb9JpF/j3+L6UwEDBiK9xHaPbd7mxbGPYQc8g3Sj2tvW6qoo7MQRkUFWVYmbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erhan\\OneDrive\\Belgeler\\GitHub\\.NET\\UniversityServiceConsumer\\UniversityServiceConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erhan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
