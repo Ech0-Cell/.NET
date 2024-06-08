@@ -1,0 +1,15 @@
+@model List<Balance>
+
+    <table>
+        <tr>
+            <th>Abone Adı</th>
+            <th>Kalan Bakiye</th>
+        </tr>
+        @foreach (var balance in Model)
+        {
+        <tr>
+            <td>@balance.SubscriberName</td>
+            <td>@balance.RemainingBalance</td>
+        </tr>
+        }
+    </table>
